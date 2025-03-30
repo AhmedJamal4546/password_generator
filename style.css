@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(56, 241, 254);
+
+   
+}
+#generate{
+    background-color: rgb(126, 246, 255);
+    padding: 40px;
+    border-radius: 15px;
+    font-size: 5rem;
+      
+
+}
+#text{
+    border-radius: 5px;
+    font-size: 30px;
+    width: 700px;
+    background-color: rgb(139, 247, 255);
+}
+#button{
+    border-radius: 15px;
+    font-size: 40px;
+    width: 700px;
+    background-color: rgb(139, 247, 255);
+}
+#button:hover{
+    background-color: rgb(18, 239, 255);
+}
